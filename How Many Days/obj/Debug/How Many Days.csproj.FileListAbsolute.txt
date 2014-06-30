@@ -1,0 +1,18 @@
+C:\Users\studi_000\Desktop\HowManyDays\How Many Days\How Many Days\bin\Debug\How Many Days.exe.config
+C:\Users\studi_000\Desktop\HowManyDays\How Many Days\How Many Days\obj\Debug\How Many Days.csprojResolveAssemblyReference.cache
+C:\Users\studi_000\Desktop\HowManyDays\How Many Days\How Many Days\obj\Debug\How_Many_Days.Form1.resources
+C:\Users\studi_000\Desktop\HowManyDays\How Many Days\How Many Days\obj\Debug\How_Many_Days.Properties.Resources.resources
+C:\Users\studi_000\Desktop\HowManyDays\How Many Days\How Many Days\obj\Debug\How Many Days.csproj.GenerateResource.Cache
+C:\Users\studi_000\Desktop\HowManyDays\How Many Days\How Many Days\bin\Debug\How Many Days.exe
+C:\Users\studi_000\Desktop\HowManyDays\How Many Days\How Many Days\bin\Debug\How Many Days.pdb
+C:\Users\studi_000\Desktop\HowManyDays\How Many Days\How Many Days\obj\Debug\How Many Days.exe
+C:\Users\studi_000\Desktop\HowManyDays\How Many Days\How Many Days\obj\Debug\How Many Days.pdb
+C:\Users\studi_000\Documents\GitHub\How-Many-Days\How Many Days\bin\Debug\How Many Days.exe.config
+C:\Users\studi_000\Documents\GitHub\How-Many-Days\How Many Days\obj\Debug\How Many Days.exe
+C:\Users\studi_000\Documents\GitHub\How-Many-Days\How Many Days\obj\Debug\How Many Days.pdb
+C:\Users\studi_000\Documents\GitHub\How-Many-Days\How Many Days\bin\Debug\How Many Days.exe
+C:\Users\studi_000\Documents\GitHub\How-Many-Days\How Many Days\bin\Debug\How Many Days.pdb
+C:\Users\studi_000\Documents\GitHub\How-Many-Days\How Many Days\obj\Debug\How Many Days.csprojResolveAssemblyReference.cache
+C:\Users\studi_000\Documents\GitHub\How-Many-Days\How Many Days\obj\Debug\How_Many_Days.Form1.resources
+C:\Users\studi_000\Documents\GitHub\How-Many-Days\How Many Days\obj\Debug\How_Many_Days.Properties.Resources.resources
+C:\Users\studi_000\Documents\GitHub\How-Many-Days\How Many Days\obj\Debug\How Many Days.csproj.GenerateResource.Cache
